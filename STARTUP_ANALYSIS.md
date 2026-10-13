@@ -114,6 +114,50 @@ An AI assistant that answers a small business's WhatsApp and Instagram DMs aroun
 
 ---
 
+## 2b. Competitor landscape (researched Oct 2026)
+
+**Short answer: yes, the space is crowded.** The generic "AI chatbot on WhatsApp" is already taken. The opportunity is a **narrow, done-for-you vertical product**.
+
+### Tier 1: The biggest threat is Meta itself
+- **Meta Business Agent** went live globally in June 2026 inside WhatsApp Business and Instagram DMs. It answers questions, recommends products, books appointments, qualifies leads and hands off to a human. It's **free to start**, with paid tiers coming through WhatsApp Business Premium. Meta claims more than 1M businesses use it.
+- **What this means:** you **cannot** win on "an AI that replies on WhatsApp." Meta gives that away. You have to win on what Meta won't build for each niche: staff calendars, deposits, no-show recovery, waitlists, integrations with local software, and hands-on setup in local languages.
+
+### Tier 2: WhatsApp automation platforms (mostly India)
+| Product | Positioning | Reported entry price |
+|---|---|---|
+| Interakt | Cheapest India SMB entry | ~₹2,499/mo (₹3,499/quarter starter) |
+| WATI | WhatsApp CRM + chatbot builder | ~₹2,499 / $30–59 per month |
+| AiSensy | Broadcasts for D2C and e-commerce | ~₹899–1,500/mo |
+| Gallabox | Mid-market WhatsApp CRM | ~₹5,999/mo or $89/mo |
+
+These are **DIY toolkits** for marketing and broadcasts. A salon owner still has to build flows themselves, and none of them is a ready-made front desk for a specific trade. Meta's message fees come on top of every one of them.
+
+### Tier 3: Direct lookalikes (small startups, 2025–26)
+- **Wello**: WhatsApp AI receptionist for salons and clinics in Brazil
+- **Welqo**: salons, barbers, clinics and gyms, with waitlist fill and no-show follow-up (freemium)
+- **Booklio**: salons, clinics and spas on an existing WhatsApp number
+- **AudioConcierge.ai**: Ireland, transcribes voice notes
+- **AudaBook**: English, Urdu and Hinglish, with a 3-minute setup
+- **Ada**: Instagram, WhatsApp and Telegram, plus calendar sync
+- Freelancers on Fiverr build custom versions of this per project.
+
+All of these are early with no clear winner. Most target one country or one language.
+
+### Tier 4: Vertical booking software adding AI
+- **Fresha** has an AI receptionist / "AI Concierge" (reported at about $99.95/month per location, calls and texts, English-speaking markets). It is also integrating with ChatGPT and Claude.
+- **Zenoti, Booksy, Vagaro** and similar salon and spa systems, plus **Practo** for clinics in India, own the calendar. They could add AI on WhatsApp later.
+
+### Where the gap is
+1. **One niche + one region + local languages.** For example, "Hindi, Telugu and Tamil voice notes for salons in Tier-2 Indian cities," or a specific trade like dental clinics or coaching centers. Big players start with English and generic use cases.
+2. **Done-for-you setup.** Meta and WATI are self-serve, and most small-business owners never finish setting them up. You set it up for them in 30 minutes.
+3. **Outcomes, not chat.** Deposits through UPI, filling cancelled slots, re-booking lapsed customers ("it's been 6 weeks since your haircut"), and Google review requests. Charge for **bookings recovered**, not for messages.
+4. **Build on Meta, don't fight it.** Use the WhatsApp Cloud API and let Meta's free agent be the funnel. Sell to owners who tried it and want booking and payment workflows connected to their calendar.
+
+### Revised verdict
+The idea is still low-risk (cheap to test, no inventory, paid from day 1), but **competition risk is high for a generic version**. Go in only as a narrow vertical. A good first test: "AI front desk for [salons / dental clinics] in [your city], with UPI deposits and no-show recovery." If 5 out of 20 owners commit after the interviews, proceed. If they say "Meta's free bot is good enough," switch to a backup idea.
+
+---
+
 ## 3. Backup ideas (same low-risk rules)
 
 1. **AI review-reply and reputation tool for local businesses.** It replies to Google and Zomato reviews and turns happy customers into reviews. Very simple, with recurring revenue.
